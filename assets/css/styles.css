@@ -1188,7 +1188,7 @@ img {
   }
   .qualification__sections {
     display: grid;
-    grid-template-columns: .6fr;
+    grid-template-columns: .8fr;
     justify-content: center;
   }
 }

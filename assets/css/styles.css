@@ -524,116 +524,28 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
-  width: 90%;
-}
-
-.skills__css {
-  width: 85%;
-}
-
-.skills__js {
-  width: 75%;
-}
-
-.skills__react {
-  width: 85%;
-}
-
-.skills__javas {
-  width: 75%;
-}
-
-.skills__node {
+.skills__pytorch {
   width: 80%;
 }
 
-.skills__firebase {
-  width: 75%;
+.skills__ml {
+  width: 70%;
 }
 
-.skills__pythons {
-  width: 95%;
-}
-
-.skills__frameworks {
-  width: 90%;
-}
-
-.skills__cv {
-  width: 95%;
+.skills__dl {
+  width: 80%;
 }
 
 .skills__nlp {
-  width: 95%;
+  width: 65%;
 }
 
-.skills__ap {
-  width: 90%;
+.skills__sp {
+  width: 75%;
 }
 
-.skills__ps {
-  width: 90%;
-}
-
-.skills__dav {
-  width: 85%;
-}
-
-.skills__python {
-  width: 95%;
-}
-
-.skills__cpp {
-  width: 90%;
-}
-
-.skills__java {
-  width: 90%;
-}
-
-.skills__sql {
-  width: 95%;
-}
-
-.skills__gcp {
-  width: 85%;
-}
-
-.skills__aws {
-  width: 85%;
-}
-
-.skills__gpu {
-  width: 90%;
-}
-
-.skills__pt {
-  width: 72%;
-}
-
-.skills__git {
-  width: 90%;
-}
-
-.skills__linux {
-  width: 90%;
-}
-
-.skills__sd {
-  width: 85%;
-}
-
-.skills__lead {
-  width: 95%;
-}
-
-.skills__tm {
-  width: 98%;
-}
-
-.skills__com {
-  width: 90%;
+.skills__cv {
+  width: 70%;
 }
 
 .skills__close .skills__list {

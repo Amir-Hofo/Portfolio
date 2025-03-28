@@ -524,12 +524,39 @@ img {
   background-color: var(--first-color);
 }
 
+.skills__divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: ۵px 0;
+}
+
+
+.skills__py {
+  width: 70%;
+}
+
 .skills__pytorch {
   width: 80%;
 }
 
-.skills__ml {
+.skills__tk {
+  width: 50%;
+}
+
+.skills__skl {
+  width: 80%;
+}
+
+.skills__pd {
   width: 70%;
+}
+
+.skills__np {
+  width: 60%;
+}
+
+.skills__plt {
+  width: 80%;
 }
 
 .skills__dl {
@@ -537,7 +564,7 @@ img {
 }
 
 .skills__nlp {
-  width: 65%;
+  width: 60%;
 }
 
 .skills__sp {
@@ -546,6 +573,37 @@ img {
 
 .skills__cv {
   width: 70%;
+}
+
+.skills__repair {
+  width: 75%;
+}
+
+.skills__smt {
+  width: 85%;
+}
+
+.skills__tac {
+  width: 80%;
+}
+
+.skills__git {
+  width: 70%;
+}
+.skills__icdl {
+  width: 80%;
+}
+.skills__rad {
+  width: 75%;
+}
+.skills__tam {
+  width: 70%;
+}
+.skills__learn {
+  width: 95%;
+}
+.skills__team {
+  width: 85%;
 }
 
 .skills__close .skills__list {

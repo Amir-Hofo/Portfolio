@@ -139,10 +139,15 @@ img {
 .section__subtitle {
   display: block;
   font-size: 1.5rem;
-  color: #000;
+  /* color: #f10909; */
   font-weight: bold;
   margin-bottom: var(--mb-3);
 }
+/* .section__subtitle {
+  display: block;
+  font-size: var(--small-font-size);
+  margin-bottom: var(--mb-3);
+} */
 
 .section__title, .section__subtitle {
   text-align: center;

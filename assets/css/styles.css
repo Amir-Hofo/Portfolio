@@ -138,7 +138,9 @@ img {
 
 .section__subtitle {
   display: block;
-  font-size: var(--small-font-size);
+  font-size: 1.5rem;
+  color: #000;
+  font-weight: bold;
   margin-bottom: var(--mb-3);
 }
 
@@ -1325,7 +1327,7 @@ img {
     right: -3.5rem;
   }
   .swiper-container-horizontal > .swiper-pagination-bullets {
-    bottom: -4.5rem;
+    bottom: -2.5rem;
   }
   .contact__form {
     width: 460px;

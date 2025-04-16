@@ -543,15 +543,15 @@ img {
 }
 
 .skills__pytorch {
-  width: 80%;
+  width: 75%;
 }
 
 .skills__tk {
-  width: 50%;
+  width: 40%;
 }
 
 .skills__skl {
-  width: 80%;
+  width: 70%;
 }
 
 .skills__pd {
@@ -559,27 +559,47 @@ img {
 }
 
 .skills__np {
-  width: 60%;
+  width: 55%;
 }
 
 .skills__plt {
-  width: 80%;
+  width: 75%;
 }
 
 .skills__dl {
-  width: 80%;
+  width: 75%;
 }
 
 .skills__nlp {
-  width: 60%;
+  width: 55%;
 }
 
 .skills__sp {
-  width: 75%;
+  width: 70%;
 }
 
 .skills__cv {
   width: 70%;
+}
+
+.skills__gith {
+  width: 70%;
+}
+
+.skills__dock {
+  width: 50%;
+}
+
+.skills__sql {
+  width: 40%;
+}
+
+.skills__app {
+  width: 55%;
+}
+
+.skills__front {
+  width: 30%;
 }
 
 .skills__repair {
